@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hermit Narita</title>
+  
+  
+  <link href="https://www.chengyinan.org/atom.xml" rel="self"/>
+  
+  <link href="https://www.chengyinan.org/"/>
+  <updated>2024-05-11T05:18:31.038Z</updated>
+  <id>https://www.chengyinan.org/</id>
+  
+  <author>
+    <name>Hermit Narita</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>About</title>
+    <link href="https://www.chengyinan.org/2024/01/01/index/"/>
+    <id>https://www.chengyinan.org/2024/01/01/index/</id>
+    <published>2023-12-31T16:00:00.000Z</published>
+    <updated>2024-05-11T05:18:31.038Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
