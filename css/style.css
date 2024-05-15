@@ -19,7 +19,7 @@ body {
   border-radius: 0px 0px 0px 0px;
   -webkit-box-shadow: 0 0px 0px rgba(0,0,0,.75);
   -moz-box-shadow: 0 0px 0px rgba(0,0,0,.75);
-  box-shadow: 0px 0px 2px 0.5px #2780e3;
+  box-shadow: 0px 0px 2px 0.5px #456fed;
 }
 
 #sidebar {
@@ -140,6 +140,8 @@ li i {
 .archive-title:before {
   font-family: FontAwesome;
   content: '\f187  ';
+  font-family: Arial;
+  content: '';
 }
 
 .archive-title-tag:before {
@@ -158,10 +160,10 @@ li i {
 
 img {
   max-width: 100%;
-  margin: 15px auto;
+  /*margin: 15px auto;
   display: block;
   width: auto;
-  height: auto;
+  height: auto;*/
 }
 
 
@@ -315,4 +317,107 @@ h1,h2,h3,h4,h5,h6 {
  */
 .cf {
   *zoom: 1;
+}
+
+figcaption {
+  display: block;
+  text-align: center;
+  font-size: 15px;
+  color: #666666;
+  font-family: "Helvetica","Arial","source han sans tc","source han sans jp", sans-serif;
+}
+
+hm {
+  /*background-color: rgba(229, 226, 16, 0.742);*/
+  background-image: url('/images/hm.png');
+  background-position: bottom;
+  background-size: auto 30%;
+  display: inline;
+  /*text-decoration:solid underline yellowgreen 4px;*/
+  background-repeat: repeat-x;
+  font-family: "Helvetica","Arial","source han sans tc","source han sans jp", sans-serif;
+}
+
+.float-item {
+  background: #fff;
+  width: 187.5px;
+  height: 62.7px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  margin-top: 0;
+  float: right;
+}
+
+
+
+.float-img {
+  background: #fff;
+  width: 187.5px;
+  height: 62.7px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  margin-top: 0;
+  float: right;
+}
+
+iframe {
+  overflow-clip-margin: content-box !important;
+  overflow: clip !important;
+  border-width: 2px;
+  border-style: inset;
+  border-color: initial;
+  border-image: initial;
+  width: 100%;
+  max-width: 100%;
+}
+
+ul.search-result-list {
+  padding-left: 10px;
+}
+
+a.search-result-title {
+  font-weight: bold;
+}
+
+p.search-result {
+  color: #555;
+}
+
+em.search-keyword {
+  border-bottom: 1px dashed #4088b8;
+  font-weight: bold;
+}
+
+.form-control {
+  border: 1px solid #1fc198;
+}
+
+.card {
+  border: 2px solid #ddd;
+  width: 400px;
+  margin: 10px;
+  font-family: Montserrat, sans-serif;
+}
+
+
+
+.card1 {
+  font-family: Montserrat, sans-serif;
+  ol {
+    list-style: none;
+    /*  命名自訂標號變數  */
+    counter-reset: my-counter;
+  }
+  ol li {
+  /*  使用自訂標號  */
+    counter-increment: my-counter;
+  /* 段落首行縮排 */
+    text-indent: -1em;
+  }
+  /* 以偽元素自訂標號樣式 */
+  ol li::before {
+    content: "("counter(my-counter) ")";
+    color: blue;
+    font-weight: bold;
+  }
 }

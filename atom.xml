@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hermit Narita</title>
+  <title>Hermit Narita&#39;s Blog</title>
   
   
-  <link href="https://www.chengyinan.org/atom.xml" rel="self"/>
+  <link href="https://www.narita.me/atom.xml" rel="self"/>
   
-  <link href="https://www.chengyinan.org/"/>
-  <updated>2024-05-11T05:18:31.038Z</updated>
-  <id>https://www.chengyinan.org/</id>
+  <link href="https://www.narita.me/"/>
+  <updated>2024-05-15T13:47:31.780Z</updated>
+  <id>https://www.narita.me/</id>
   
   <author>
     <name>Hermit Narita</name>
@@ -17,23 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>About</title>
-    <link href="https://www.chengyinan.org/2024/01/01/index/"/>
-    <id>https://www.chengyinan.org/2024/01/01/index/</id>
-    <published>2023-12-31T16:00:00.000Z</published>
-    <updated>2024-05-11T05:18:31.038Z</updated>
+    <title>“v” or “nu”? A typesetting detail one should pay attention to</title>
+    <link href="https://www.narita.me/v_or_nu_detail/"/>
+    <id>https://www.narita.me/v_or_nu_detail/</id>
+    <published>2024-05-19T16:00:00.000Z</published>
+    <updated>2024-05-15T13:47:31.780Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
+    <summary type="html">&lt;p&gt;Take a look at the image below. What are the highlighted letters in each equation respectively?&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/images/eq12.svg&quot; height=&quot;75px&quot; alt=&quot;Times New Roman &amp;amp; Symbol&quot; title=&quot;Times New Roman &amp;amp; Symbol&quot; oncontextmenu=&quot;return false;&quot; class=&quot;nofancybox&quot;&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;It’s easy to recognize the letter in Eq.① is $v$ (the Latin letter v) representing velocity and that in Eq.② is $&#92;nu$ (the Greek alphabet nu) representing frequency, since both equations are classic in physics. In certain contexts, the recognition is easy. However, if we take away the contexts, could it be possible for one to know whether a glyph is v or nu? Or, if these glyphs appear in a shared context? Confusion may emerge.&lt;/p&gt;</summary>
     
     
     
+    <category term="Typography" scheme="https://www.narita.me/categories/Typography/"/>
+    
+    
+    <category term="Typesetting Details" scheme="https://www.narita.me/tags/Typesetting-Details/"/>
+    
+    <category term="Word" scheme="https://www.narita.me/tags/Word/"/>
+    
+    <category term="MathType" scheme="https://www.narita.me/tags/MathType/"/>
+    
+    <category term="Font" scheme="https://www.narita.me/tags/Font/"/>
     
   </entry>
   
