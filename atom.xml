@@ -3,11 +3,11 @@
   <title>Hermit Narita&#39;s Blog</title>
   
   
-  <link href="https://www.narita.me/atom.xml" rel="self"/>
+  <link href="https://blog.narita.me/atom.xml" rel="self"/>
   
-  <link href="https://www.narita.me/"/>
+  <link href="https://blog.narita.me/"/>
   <updated>2024-05-15T14:00:08.647Z</updated>
-  <id>https://www.narita.me/</id>
+  <id>https://blog.narita.me/</id>
   
   <author>
     <name>Hermit Narita</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>“v” or “nu”? A typesetting detail one should pay attention to</title>
-    <link href="https://www.narita.me/v_or_nu_detail/"/>
-    <id>https://www.narita.me/v_or_nu_detail/</id>
+    <link href="https://blog.narita.me/v_or_nu_detail/"/>
+    <id>https://blog.narita.me/v_or_nu_detail/</id>
     <published>2024-05-19T16:00:00.000Z</published>
     <updated>2024-05-15T14:00:08.647Z</updated>
     
@@ -34,16 +34,16 @@
     
     
     
-    <category term="Typography" scheme="https://www.narita.me/categories/Typography/"/>
+    <category term="Typography" scheme="https://blog.narita.me/categories/Typography/"/>
     
     
-    <category term="Typesetting Details" scheme="https://www.narita.me/tags/Typesetting-Details/"/>
+    <category term="Typesetting Details" scheme="https://blog.narita.me/tags/Typesetting-Details/"/>
     
-    <category term="Word" scheme="https://www.narita.me/tags/Word/"/>
+    <category term="Word" scheme="https://blog.narita.me/tags/Word/"/>
     
-    <category term="MathType" scheme="https://www.narita.me/tags/MathType/"/>
+    <category term="MathType" scheme="https://blog.narita.me/tags/MathType/"/>
     
-    <category term="Font" scheme="https://www.narita.me/tags/Font/"/>
+    <category term="Font" scheme="https://blog.narita.me/tags/Font/"/>
     
   </entry>
   
