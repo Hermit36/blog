@@ -6,7 +6,7 @@
   <link href="https://blog.narita.me/atom.xml" rel="self"/>
   
   <link href="https://blog.narita.me/"/>
-  <updated>2024-05-15T14:12:36.620Z</updated>
+  <updated>2024-05-16T09:32:56.016Z</updated>
   <id>https://blog.narita.me/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.narita.me/v_or_nu_detail/"/>
     <id>https://blog.narita.me/v_or_nu_detail/</id>
     <published>2024-05-19T16:00:00.000Z</published>
-    <updated>2024-05-15T14:12:36.620Z</updated>
+    <updated>2024-05-16T09:32:56.016Z</updated>
     
     
     <summary type="html">&lt;p&gt;Take a look at the image below. What are the highlighted letters in each equation respectively?&lt;/p&gt;
@@ -30,7 +30,7 @@
 &lt;/p&gt;
 
 
-&lt;p&gt;It’s easy to recognize the letter in Eq.① is $v$ (the Latin letter v) representing velocity and that in Eq.② is $&#92;nu$ (the Greek alphabet nu) representing frequency, since both equations are classic in physics. In certain contexts, the recognition is easy. However, if we take away the contexts, could it be possible for one to know whether a glyph is v or nu? Or, if these glyphs appear in a shared context? Confusion may emerge.&lt;/p&gt;</summary>
+&lt;p&gt;It’s easy to recognize the letter in Eq.① is $v$ (the Latin alphabet v) representing velocity and that in Eq.② is $&#92;nu$ (the Greek alphabet nu) representing frequency, since both equations are classic in physics. In certain contexts, the recognition is easy. However, if we take away the contexts, could it be possible for one to know whether a glyph is v or nu? Or, if these glyphs appear in a shared context? Confusion may arise.&lt;/p&gt;</summary>
     
     
     
