@@ -8,7 +8,7 @@
       <link href="/hd_old_exam_template/"/>
       <url>/hd_old_exam_template/</url>
       
-        <content type="html"><![CDATA[<p>As a “Haidianer”, we have passed at least 24 district-wide unified examinations from grade 1 at junior middle school to senior grade 3 at high school (2 per semester, i.e. mid-term and final exams). Have you ever noticed the typesetting of your exam papers?</p><span id="more"></span><p>You may have noticed that the layout design is standardized and orderly throughout papers of all subjects, similar to that of NCEE papers, in large contrast to the poorly typed papers of monthly tests held by your own school. (Actually, there are many differences between the layout design of Haidian exam papers and that of the NCEE papers, which I’ll elucidate in detail in later articles. From my perspective, though being a small detail, each district should pay attention to the layout design of their unified exam papers. Try to imitate the real NCEE papers because, after all, the unified exams are targeted at NCEE, and the more simulated in each detail, the better students are prepared for the real battle, at least psychologically.)</p><p>I don’t remember when it was first used, perhaps it can back to the 2000s, but I’m sure that its life (partly) ceased in the spring of 2016. Since then, the layout design of Haidian unified exam papers has been changed at least three times, and it has been no longer typeset by BookMaker since the third change. </p><p>In commemoration of this classic layout, I’ve reproduced a “.fbd” template using Founder Bookmaker. Here I’ll display the first 2 pages. The content is retrieved from the Chinese subject of the second semester of senior grade 3, 2016. (source: Beijing Haidian Teachers Training College.)</p><p align="center"><img src="/images/hdold01.jpg" width="800px" oncontextmenu="return false;" class="nofancybox" style="border-style: solid;border-color: #bbb;border-width:1px"></p><p></p><p align="center"><img src="/images/hdold02.jpg" width="800px" oncontextmenu="return false;" class="nofancybox" style="border-style: solid;border-color: #bbb;border-width:1px"></p><p>Fonts used:</p><ul><li>Fangzheng Shusong (SS)</li><li>Fangzheng Heiti (H)</li><li>Fangzheng Kaiti (KT)</li><li>Fangzheng Xiaobiaosong (XBS)</li><li>Baizheng NPS (BZ)</li></ul><p>If you need a sample pdf file, please contact <code>m@narita.me</code>.</p>]]></content>
+        <content type="html"><![CDATA[<p>As a “Haidianer”, we have passed at least 24 district-wide unified examinations from grade 1 at junior middle school to senior grade 3 at high school (2 per semester, i.e. mid-term and final exams). Have you ever noticed the typesetting of your exam papers?</p><span id="more"></span><p>You may have noticed that the layout design is standardized and orderly throughout papers of all subjects, similar to that of NCEE papers, in large contrast to the poorly typed papers of monthly tests held by your own school. (Actually, there are many differences between the layout design of Haidian exam papers and that of the NCEE papers, which I’ll elucidate in detail in later articles. From my perspective, though being a small detail, each district should pay attention to the layout design of their unified exam papers. Try to imitate the real NCEE papers because, after all, the unified exams are targeted at NCEE, and the more simulated in each detail, the better students are prepared for the real battle, at least psychologically.)</p><p>I don’t remember when it was first used, perhaps it can date back to the 2000s, but I’m sure that its life (partly) ceased in the spring of 2016. Since then, the layout design of Haidian unified exam papers has been changed at least three times, and it has been no longer typeset by BookMaker since the third change. </p><p>In commemoration of this classic layout, I’ve reproduced a “.fbd” template using Founder Bookmaker. Here I’ll display the first 2 pages. The content is retrieved from the Chinese subject of the second semester of senior grade 3, 2016. (source: Beijing Haidian Teachers Training College.)</p><p align="center"><img src="/images/hdold01.jpg" width="800px" oncontextmenu="return false;" class="nofancybox" style="border-style: solid;border-color: #bbb;border-width:1px"></p><p></p><p align="center"><img src="/images/hdold02.jpg" width="800px" oncontextmenu="return false;" class="nofancybox" style="border-style: solid;border-color: #bbb;border-width:1px"></p><p>Fonts used:</p><ul><li>Fangzheng Shusong (SS)</li><li>Fangzheng Heiti (H)</li><li>Fangzheng Kaiti (KT)</li><li>Fangzheng Xiaobiaosong (XBS)</li><li>Baizheng NPS (BZ)</li></ul><p>If you need a sample pdf file, please contact <code>m@narita.me</code>.</p>]]></content>
       
       
       <categories>
@@ -67,17 +67,6 @@
     
     
     <entry>
-      <title>Categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>About</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -92,6 +81,17 @@
       <title>Tags</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
