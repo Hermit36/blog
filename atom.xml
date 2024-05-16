@@ -6,7 +6,7 @@
   <link href="https://blog.narita.me/atom.xml" rel="self"/>
   
   <link href="https://blog.narita.me/"/>
-  <updated>2024-05-16T16:58:38.962Z</updated>
+  <updated>2024-05-16T16:58:50.118Z</updated>
   <id>https://blog.narita.me/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Template for Haidian district unified exam papers (old version)</title>
+    <link href="https://blog.narita.me/hd_old_exam_template/"/>
+    <id>https://blog.narita.me/hd_old_exam_template/</id>
+    <published>2024-05-16T16:00:00.000Z</published>
+    <updated>2024-05-16T16:58:50.118Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;As a “Haidianer”, we have passed at least 24 district-wide unified examinations from grade 1 at junior middle school to senior grade 3 at high school (2 per semester, i.e. mid-term and final exams). Have you ever noticed the typesetting of your exam papers?&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Typography" scheme="https://blog.narita.me/categories/Typography/"/>
+    
+    
+    <category term="Layout reproduction" scheme="https://blog.narita.me/tags/Layout-reproduction/"/>
+    
+    <category term="Exam papers’ layout" scheme="https://blog.narita.me/tags/Exam-papers%E2%80%99-layout/"/>
+    
+    <category term="Founder BookMaker" scheme="https://blog.narita.me/tags/Founder-BookMaker/"/>
+    
+  </entry>
   
   <entry>
     <title>“v” or “nu”? A typesetting detail one should pay attention to</title>
@@ -44,29 +67,6 @@
     <category term="MathType" scheme="https://blog.narita.me/tags/MathType/"/>
     
     <category term="Font" scheme="https://blog.narita.me/tags/Font/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Template for Haidian district unified exam papers (old version)</title>
-    <link href="https://blog.narita.me/hd_old_exam_template/"/>
-    <id>https://blog.narita.me/hd_old_exam_template/</id>
-    <published>2024-05-14T16:00:00.000Z</published>
-    <updated>2024-05-16T16:50:39.803Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;As a “Haidianer”, we have passed at least 24 district-wide unified examinations from grade 1 at junior middle school to senior grade 3 at high school (2 per semester, i.e. mid-term and final exams). Have you ever noticed the typesetting of your exam papers?&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Typography" scheme="https://blog.narita.me/categories/Typography/"/>
-    
-    
-    <category term="Layout reproduction" scheme="https://blog.narita.me/tags/Layout-reproduction/"/>
-    
-    <category term="Exam papers&#39; layout" scheme="https://blog.narita.me/tags/Exam-papers-layout/"/>
-    
-    <category term="Founder BookMaker" scheme="https://blog.narita.me/tags/Founder-BookMaker/"/>
     
   </entry>
   
