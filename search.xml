@@ -62,6 +62,31 @@
     </entry>
     
     
+    
+    <entry>
+      <title>終章 (Original poem)</title>
+      <link href="/poem_ending/"/>
+      <url>/poem_ending/</url>
+      
+        <content type="html"><![CDATA[<p>白鴿銜著鮮花從山谷間飛來/<br>姑且將這一抹紅色算作熱情/<br>那麽它符合熱力學第二定律嗎？</p><span id="more"></span><p>也說不得好/<br>也說不得不好/<br>昔日大漠吟唱/<br>星河滾滾/<br>暮靄蒼茫/<br>不覺呢喃/<br>我們都是癔病患者/</p><p>其實嗔怪是一種怪物/<br>幾回合下來/<br>都傲嬌地癱坐/<br>決出輸贏否？<br>光陰輪轉間/<br>風力侵蝕的過程/<br>石頭也是痛苦的/</p><p>當星沙幻化作光點/<br>為了粲然一瞬並湮滅/<br>便已知曉/<br>撩人絮語不過是虛空夢囈/</p><p>是的吧/<br>外面起風了/<br>或許此刻你正蕩漾在另個平行宇宙</p><p>2021年冬夜於京華</p><p>Copyright © 2021 Narita</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Poem </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Poem </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
     
@@ -78,9 +103,9 @@
     
     
     <entry>
-      <title>Categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>Tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -89,9 +114,9 @@
     
     
     <entry>
-      <title>Tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>Categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
