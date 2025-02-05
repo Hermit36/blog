@@ -8,7 +8,7 @@
       <link href="/low_fertility_rate/"/>
       <url>/low_fertility_rate/</url>
       
-        <content type="html"><![CDATA[<p>經常遛彎的一條路上，一家幼兒園在前不久關停了。如今，原址已然改頭換面，變成了一家快捷酒店，門庭若市。</p>]]></content>
+        <content type="html"><![CDATA[<p>經常遛彎的一條路上，一家幼兒園在前不久關停了。<br>如今，原址已然改頭換面，變成了一家快捷酒店，門庭若市。</p>]]></content>
       
       
       <categories>
@@ -33,7 +33,7 @@
       <link href="/atmosphere_of_chinese_new_year/"/>
       <url>/atmosphere_of_chinese_new_year/</url>
       
-        <content type="html"><![CDATA[<p>對面樓某戶有過年期間在陽台上掛彩燈的習慣。去年，直到元宵夜，彩燈依然是點亮的。今年，還沒過初七，就已經不亮了。 ​​​</p>]]></content>
+        <content type="html"><![CDATA[<p>對面樓某戶有過年期間在陽台上掛彩燈的習慣。<br>去年，直到元宵夜，彩燈依然是點亮的。<br>今年，還沒過初七，就已經不亮了。 ​​​</p>]]></content>
       
       
       <categories>
@@ -192,17 +192,6 @@
     
     
     <entry>
-      <title>Tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>About</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -217,6 +206,17 @@
       <title>Categories</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
